@@ -74,3 +74,5 @@ Thumbs.db
 
 # Fichiers spécifiques à Unity Cloud Build
 [Uu]nity[Cc]loud[Bb]uild/
+
+/[Ll]ibrary/[Pp]ackage[Cc]ache/
