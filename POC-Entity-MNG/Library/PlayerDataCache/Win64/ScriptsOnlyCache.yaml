@@ -1035,4 +1035,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/mrori/Bureau/Laval/win-2025/IFT-3113/buildTP3/Entity-Status-Management.exe
+  playerPath: C:/Users/mrori/Bureau/Laval/win-2025/IFT-3113/build/Entity-Status-Management.exe
