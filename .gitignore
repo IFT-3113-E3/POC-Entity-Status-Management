@@ -1,0 +1,75 @@
+# Fichiers générés par Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Fichiers de cache et de métadonnées
+/.vs/
+/.vscode/
+/*.csproj
+/*.sln
+/*.suo
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.svd
+
+# Fichiers Unity Asset
+/*.unitypackage
+/*.asset
+/*.prefab
+/*.mat
+/*.fbx
+/*.obj
+/*.tga
+
+# Fichiers de sauvegarde et de cache
+/*.apk
+/*.unityweb
+/*.app
+/*.exe
+/*.dll
+/*.pdb
+/*.mdb
+/*.ilk
+/*.exp
+/*.bak
+/*.old
+/*.swp
+
+# Fichiers spécifiques à macOS
+.DS_Store
+*.DS_Store
+
+# Fichiers spécifiques à Windows
+Thumbs.db
+
+# Fichiers spécifiques à Linux
+*~
+
+# Fichiers spécifiques à Visual Studio
+.vs/
+.vscode/
+
+# Fichiers spécifiques à Rider
+.idea/
+
+# Fichiers spécifiques à Android
+*.keystore
+
+# Fichiers spécifiques à iOS
+*.ipa
+*.plist
+*.entitlements
+
+# Fichiers spécifiques à Git
+.gitattributes
+.gitmodules
+
+# Fichiers spécifiques à Unity Cloud Build
+[Uu]nity[Cc]loud[Bb]uild/
