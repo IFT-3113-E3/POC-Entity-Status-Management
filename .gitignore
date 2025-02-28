@@ -6,6 +6,7 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+/[Pp]ackageCache/
 
 # Fichiers de cache et de métadonnées
 /.vs/
